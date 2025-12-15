@@ -1,3 +1,6 @@
+Untuk username dan password bisa melalui register di dalam web
+
+
 # Sistem Manajemen Inventaris Laboratorium
 
 Aplikasi web berbasis **PHP, MySQL, dan Bootstrap** untuk mengelola data alat laboratorium, peminjaman, dan pengembalian alat.
@@ -16,3 +19,4 @@ Aplikasi web berbasis **PHP, MySQL, dan Bootstrap** untuk mengelola data alat la
 - XAMPP
 
 ## 📂 Struktur Folder
+
